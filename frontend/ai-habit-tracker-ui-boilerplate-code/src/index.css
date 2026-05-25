@@ -75,7 +75,7 @@
 html.dark {
   color-scheme: dark;
 
-  --bg-base: #111827;
+  --bg-base: #000000;
   --bg-aurora-1: transparent;
   --bg-aurora-2: transparent;
   --bg-aurora-3: transparent;
@@ -85,13 +85,13 @@ html.dark {
   --text-muted: #9ca3af;
   --text-faint: #6b7280;
 
-  --surface: #1f2937;
-  --surface-strong: #374151;
-  --surface-hover: #374151;
-  --surface-border: #374151;
+  --surface: #111111;
+  --surface-strong: #1a1a1a;
+  --surface-hover: #1a1a1a;
+  --surface-border: #222222;
   --surface-ring: rgba(255, 255, 255, 0.1);
 
-  --input-bg: #1f2937;
+  --input-bg: #111111;
   --input-border: rgba(255, 255, 255, 0.08);
   --input-border-focus: #fcd34d;
   --input-ring-focus: rgba(252, 211, 77, 0.22);
